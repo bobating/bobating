@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey yooo 👋
 
-<!--
-**bobating/bobating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chris, a software developer student currently in Canada! Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🔭 I’m currently on researching tour bots, and a event based website using Wordpress!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning andriod studios, python machine learning, Oracle PL/SQL.
+
+👯 I’m looking to collaborate on simple projects.
+
+📫 How to reach me: chrisrosetopher@gmail.com
+
+
+⚡ Fun fact: Do you know what a mountain chicken is? A giant ditch frog 🐸🐸
