@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white">
 </div>
 
 <br>
