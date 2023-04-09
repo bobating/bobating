@@ -11,8 +11,7 @@
 
 <br>
 
-- 🔭 Currently I'm working on researching tour bots & bluetooth usage and developing an event-based website using WordPress.
-- 🌱 I’m currently learning more about android studio for developing applications, python machine learning, and oracle PL/SQL.
+- 🌱 I’m currently learning more about Azure, Ruby, C++ 
 - 👯 I’m looking to collaborate on simple projects, just started using github so bare with me!
 - ⚡ Fun fact: Did you know that a mountain chicken is actually a giant ditch frog 🐔🐸.
 
