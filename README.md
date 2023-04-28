@@ -12,8 +12,8 @@
 <br>
 
 - 🌱 I’m currently learning more about Azure, Ruby, C++ 
-- 👯 I’m looking to collaborate on simple projects, just started using github so bare with me!
-- ⚡ Fun fact: Did you know that a mountain chicken is actually a giant ditch frog 🐔🐸.
+- 👯 I’m looking to collaborate on simple projects, or opportunities
+- ⚡ Fun fact: Did you know that a mountain chicken is actually a giant ditch frog 🐔🐸
 
 <br>
 
